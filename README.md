@@ -20,6 +20,6 @@
 [点击下载最新源码](http://https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/zaixianjiaoxue20180911.zip) 
 
 #### 系统安装
-详细安装说明请到 [http://doc.zaixianjiaoxue.net](http://doc.zaixianjiaoxue.net)
+详细安装说明请到 [http://help.zaixianjiaoxue.net](http://doc.zaixianjiaoxue.net)
 ![输入图片说明](https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/gitee/1.png "在这里输入图片标题")
  
