@@ -1,8 +1,8 @@
 # 蒲公英在线教学系统
 
 由以下版本组成：
-1.网站（演示地址 http://demo.zaixianjiaoxue.net）  
-2.网页版互动直播课堂 
+1.网站（演示地址 http://demo.zaixianjiaoxue.net )
+2.网页版互动直播课堂  
 3.公众号版 
 4.安卓app版 
 5.苹果app版 
