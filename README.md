@@ -17,7 +17,7 @@
 “科技让教育更美好”是蒲公英在线教学系统的使命。我们会秉持“成就客户 诚信 务实 进取 合作”12字核心价值观，与您一起，共同学习，快速成长！
 
 #### 获取源码
-码云上更新可能更新不及时，[点击下载最新源码](http://https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/zaixianjiaoxue20180911.zip) 
+[点击下载最新源码](http://https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/zaixianjiaoxue20180911.zip) 
 
 #### 系统安装
 详细安装说明请到 [http://doc.zaixianjiaoxue.net](http://doc.zaixianjiaoxue.net)
