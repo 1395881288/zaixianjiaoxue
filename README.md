@@ -3,7 +3,7 @@
 由以下版本组成：<br>
 1.网站（演示地址 http://demo.zaixianjiaoxue.net )<br>
 2.网页版互动直播课堂  <br>
-演示地址：[https://www.mingtianjian.net/tomcat/software/web/Main.html]( 进入体验 ) <br>
+演示地址：[进入体验](https://www.mingtianjian.net/tomcat/software/web/Main.html)  <br>
 3.公众号版 <br>
 ![输入图片说明](https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/gitee/gzh.png "在这里输入图片标题") <br>
 4.安卓app版 <br>
@@ -19,7 +19,7 @@
 “科技让教育更美好”是蒲公英在线教学系统的使命。我们会秉持“成就客户 诚信 务实 进取 合作”12字核心价值观，与您一起，共同学习，快速成长！
 
 #### 获取源码
-[点击下载最新源码](http://https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/zaixianjiaoxue20180911.zip) 
+[点击下载最新源码](https://www.mingtianjian.net/tomcat/software/zaixianjiaoxue/zaixianjiaoxue20180911.zip) 
 
 #### 系统安装
 详细安装说明请到 [http://help.zaixianjiaoxue.net](http://help.zaixianjiaoxue.net)
