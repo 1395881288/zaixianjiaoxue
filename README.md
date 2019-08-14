@@ -2,6 +2,8 @@
 
 由以下版本组成：<br>
 1.网站（演示地址 http://demo.zaixianjiaoxue.net )<br>
+
+![输入图片说明](http://help.zaixianjiaoxue.net/Uploads/Editor/2018-10-29/5bd6ae8548330.jpg "在这里输入图片标题") <br>
 2.网页版互动直播课堂  <br>
 演示地址：[进入体验](https://www.mingtianjian.net/tomcat/software/web/Main.html)  体验账号：账号随意写  密码：123456<br>
 3.公众号版 <br>
